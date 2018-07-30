@@ -1,0 +1,6 @@
+C:\Users\Юрий\AppData\Local\Temporary Projects\Lab8_1\bin\Debug\Lab8_1.exe
+C:\Users\Юрий\AppData\Local\Temporary Projects\Lab8_1\bin\Debug\Lab8_1.pdb
+C:\Users\Юрий\AppData\Local\Temporary Projects\Lab8_1\obj\x86\Debug\Lab8_1.exe
+C:\Users\Юрий\AppData\Local\Temporary Projects\Lab8_1\obj\x86\Debug\Lab8_1.pdb
+c:\users\юрий\documents\visual studio 2010\Projects\Lab8_1\Lab8_1\obj\x86\Debug\Lab8_1.exe
+c:\users\юрий\documents\visual studio 2010\Projects\Lab8_1\Lab8_1\obj\x86\Debug\Lab8_1.pdb
